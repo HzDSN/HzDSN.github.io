@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-08T06:24:09.344Z</updated>
+  <updated>2016-07-08T06:34:28.988Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/07/08/about/"/>
+    <id>http://yoursite.com/2016/07/08/about/</id>
+    <published>2016-07-08T06:31:21.742Z</published>
+    <updated>2016-07-08T06:34:28.988Z</updated>
+    
+    <content type="html">&lt;hr&gt;
+&lt;p&gt;title: 关于我的前一篇文章为什么没有标题&lt;br&gt;date: 2016-07-08 14:31:21&lt;br&gt;tags:Blog—&lt;br&gt;在我用编辑器编辑Tag的时候，不小心把右侧的三个横杠删了，导致没有标题。我认为这次应该有了。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;title: 关于我的前一篇文章为什么没有标题&lt;br&gt;date: 2016-07-08 14:31:21&lt;br&gt;tags:Blog—&lt;br&gt;在我用编辑器编辑Tag的时候，不小心把右侧的三个横杠删了，导致没有标题。我认为这次应该有了。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
