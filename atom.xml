@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-08T05:20:12.316Z</updated>
+  <updated>2016-07-08T06:24:09.344Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/07/08/HzDSN/"/>
+    <id>http://yoursite.com/2016/07/08/HzDSN/</id>
+    <published>2016-07-08T05:55:33.762Z</published>
+    <updated>2016-07-08T06:24:09.344Z</updated>
+    
+    <content type="html">&lt;hr&gt;
+&lt;p&gt;title: HzDSN&lt;br&gt;date: 2016-07-08 13:55:33&lt;br&gt;tags:Blog&lt;br&gt;毕竟我建了这么个博客，那我先写点我对博客认识的心路。&lt;br&gt;2006年，我在国内的很多门户网站创建了博客，而实际上只是和现在很多人创建微信号是为了关注大v差不多。毕竟是别人家的博客，总有点不舒服的地方。&lt;br&gt;2012年，我开始研究建立HTTP服务器，由于当时资金和能力有限，所以只能用上类似OpenShift这样的免费空间。很不稳定。而且现在再看当时搭的页面实在是惨不忍睹。&lt;br&gt;今年我开始学习C#，不久就入坑了GitHub，发现GitHub上有很多有意思的Repository，这个网站用的Hexo框架也算一个。在受到知乎大神推荐Hexo后，我又找回了写博客的感觉。因为整个网站都在我电脑本地生成，而且不用改网页代码布局这些繁琐的步骤。&lt;br&gt;就是这样吧。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;title: HzDSN&lt;br&gt;date: 2016-07-08 13:55:33&lt;br&gt;tags:Blog&lt;br&gt;毕竟我建了这么个博客，那我先写点我对博客认识的心路。&lt;br&gt;2006年，我在国内的很多门户网站创建了博客，而实际上只是和现在很多人创建微信号是为了关
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
